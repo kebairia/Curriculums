@@ -1,0 +1,69 @@
+#+TODO: TODO | DONE
+* LFCS Section [0%]
+** TODO Chapter 1: Learn GNU ‘sed’ Command
+** TODO Chapter 2: Learn vi/m as a full Text Editor
+** TODO Chapter 3: Archiving Files/Directories and Finding Files
+** TODO Chapter 4: Partitioning Storage Devices
+** TODO Chapter 5: Setup Network Share (Samba & NFS) File-systems
+** TODO Chapter 6: Assembling Partitions as RAID Devices
+** TODO Chapter 7: Manage System Services with SysVinit, Systemd and Upstart
+** TODO Chapter 8: Managing Users & Groups and Enabling sudo Access
+** TODO Chapter 9: Package Management with Yum, RPM, Apt, Dpkg, Aptitude and Zypper
+** TODO Chapter 10: Learning Basic Shell Scripting and Troubleshooting
+** TODO Chapter 11: Manage and Create LVM Partitions
+** TODO Chapter 12: Linux Help Documentations and Tools
+** TODO Chapter 13: Configure and Troubleshoot Grand Unified Boot-loader (GRUB)
+** TODO Chapter 14: Monitor Linux Processes Resource Usage
+** TODO Chapter 15: Set Kernel Runtime Parameters in Linux
+** TODO Chapter 16: SELinux and AppArmor
+** TODO Chapter 17: Set Access Control Lists (ACL’s) and Disk Quotas
+** TODO Chapter 18: Setting Up Network Services NFS, Apache, Squid+SquidGuard, Postfix+Dovecot
+** TODO Chapter 19: Setting Up FTP Server to Allow Anonymous Logins
+** TODO Chapter 20: Setup Recursive Caching DNS Server
+** TODO Chapter 21: Installation and Configuration of MariaDB Database Server
+** TODO Chapter 22: Configuring NFS Shares with Autofs
+** TODO Chapter 23: Setup Apache SSL with Name-Based Virtual Hosting
+** TODO Chapter 24: Setup Restricted Squid Proxy Server
+** TODO Chapter 25: Configuring SquidGuard for Content Rules
+** TODO Chapter 26: Setting Up Email Services Postfix+Dovecot
+** TODO Chapter 27: Setup an Iptables Firewall
+** TODO Chapter 28: Static and Dynamic Routing
+** TODO Chapter 29: Setup Encrypted Filesystem and Swap Space
+** TODO Chapter 30: Monitor System Usage, Utilization, and Troubleshooting
+** TODO Chapter 31: Setting Up A Local/Network Repository
+** TODO Chapter 32: Network Performance, Security, and Troubleshooting
+** TODO Chapter 33: Managing and Configuring Virtual Machines and Containers
+* LFCE Section [0%]
+** TODO Chapter 1: How to Use Git Version Control System
+** TODO Chapter 2: Processing and Manipulating Text Streams in Linux
+** TODO Chapter 3: How to Run Multiple Commands on Multiple Linux Servers
+** TODO Chapter 4: How to Monitor System Usage, Outages and Troubleshoot Linux Servers
+** TODO Chapter 5: Network Performance, Security, and Troubleshooting
+** TODO Chapter 6: Monitor Linux Process Resource Usages
+** TODO Chapter 7: Update the Kernel and Ensure the System is Bootable
+** TODO Chapter 8: How to Use udev for Device Detection and Management
+** TODO Chapter 9: Implementing Mandatory Access Control with SELinux or AppArmor
+** TODO Chapter 10: User Management, Special Attributes, and PAM
+** TODO Chapter 11: Install OpenLDAP Server for Centralized Authentication
+** TODO Chapter 12: Configure LDAP Client to Connect External Authentication
+** TODO Chapter 13: How to Configure and Use PAM in Linux
+** TODO Chapter 14: Create SSH Tunneling or Port Forwarding in Linux
+** TODO Chapter 15: How to Install and Configure Firewalld
+** TODO Chapter 16: Setting Up Apache with Virtual Hosting with SSL Certificate
+** TODO Chapter 17: Setting Up Nginx with Virtual Hosting with SSL Certificate
+** TODO Chapter 18: Setting Up Time Synchronization Server NTP
+** TODO Chapter 19: Setting Up Centralized Log Server with Rsyslog
+** TODO Chapter 20: Setting Up DHCP Server and Client
+** TODO Chapter 21: Setting Up Mail Server Postfix and Dovecot
+** TODO Chapter 22: Setting Up Squid HTTP Proxy Server
+** TODO Chapter 23: Setting Up SquidGuard for Squid Proxy Content Filter
+** TODO Chapter 24: Implement and Configure a PXE Boot Server on CentOS
+** TODO Chapter 25: Implement and Configure a PXE Boot Server on Ubuntu
+** TODO Chapter 26: Setting Up a Caching DNS Server
+** TODO Chapter 27: Logical Volume Management – LVM
+** TODO Chapter 28: Setting Up Network Share (Samba & NFS) Filesystems
+** TODO Chapter 29: Configure and Maintain High Availability/Clustering
+** TODO Chapter 30: Install, Create and Manage LXC (Linux Containers)
+** TODO Chapter 31: Installing and Configuring a Database Server
+** TODO Chapter 32: Turn a Linux Server into a Router
+** TODO Chapter 33: Managing and Configuring Virtual Machines and Containers
